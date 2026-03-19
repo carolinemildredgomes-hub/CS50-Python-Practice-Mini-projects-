@@ -1,0 +1,32 @@
+# FizzBuzz Game - Python Project
+
+## Description
+Print numbers in a range:
+- Multiples of 3 → "Fizz"
+- Multiples of 5 → "Buzz"
+- Multiples of 3 & 5 → "FizzBuzz"
+
+## Learning Notes Matched
+- Loops: `for` loop to iterate numbers  
+- Conditionals: check multiples with `%` operator  
+- Functions: modular `fizzbuzz()` and `get_range()`  
+- Input validation: while loop with `try/except`  
+
+## Example
+Start number: 1
+End number: 15
+1
+2
+Fizz
+4
+Buzz
+Fizz
+...
+FizzBuzz
+
+## How to Run
+```bash
+python fizzbuzz.py
+Author
+
+Caroline Mildred Gomes
