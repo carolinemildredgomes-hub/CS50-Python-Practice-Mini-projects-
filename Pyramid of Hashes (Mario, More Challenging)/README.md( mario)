@@ -1,0 +1,23 @@
+# Mario Pyramid - Python Project
+
+## Description
+Prints a right-aligned pyramid of '#' characters, inspired by Mario. 
+- User enters a height (1-8). 
+- Nested loops create the pyramid.
+
+## Learning Notes Matched
+- Loops: `for` loop for rows  
+- Conditionals: validate input  
+- Functions: `get_height()`, `print_pyramid()`  
+- Input validation with `while` + `try/except`  
+
+## Example
+
+## How to Run
+```bash
+python mario_pyramid.py
+
+
+Author
+
+Caroline Mildred Gomes
