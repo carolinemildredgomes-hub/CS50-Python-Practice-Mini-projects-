@@ -1,0 +1,32 @@
+# Student Grades - Python Project
+
+## Description
+Input students and grades, store in a dictionary, and calculate average.
+
+## Learning Notes Matched
+- Loops: iterate dict items  
+- Conditionals: input validation  
+- Dicts: store student-grade pairs  
+- Functions: modular code (`get_students()`, `average_grade()`)  
+
+## Example
+
+Student name: Harry
+Grade for Harry: 90
+Student name: Hermione
+Grade for Hermione: 95
+Student name: Ron
+Grade for Ron: 85
+
+Harry: 90
+Hermione: 95
+Ron: 85
+Average grade: 90.00
+
+
+## How to Run
+```bash
+python student_grades.py
+Author
+
+Caroline Mildred Gomes
